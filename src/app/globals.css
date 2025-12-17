@@ -53,7 +53,7 @@ header {
 
 .file-input::before {
   margin: auto;
-  margin-bottom: 40px;
+  margin-top: 20px;
   display: flex;
   justify-content: center;
   width: 60px;
@@ -82,7 +82,7 @@ header {
   position: relative;
   display: flex;
   justify-content: center;
-  padding: 10px 20px;
+  padding: 10px 30px;
   min-width: 200px;
   border-radius: 30px;
   background: #2B323F26;
